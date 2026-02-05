@@ -12,12 +12,13 @@ I enjoy problem solving and creating software that actually helps people.
 ---
 ## My Programming Language Stack!
 
-![C](https://img.shields.io/badge/C-E8ECEF?style=for-the-badge&logo=c&logoColor=4A5568)
-![Python](https://img.shields.io/badge/Python-FFF4CC?style=for-the-badge&logo=python&logoColor=4A5568)
-![Java](https://img.shields.io/badge/Java-FFE5E5?style=for-the-badge&logo=openjdk&logoColor=4A5568)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFF8D6?style=for-the-badge&logo=javascript&logoColor=4A5568)
-![HTML5](https://img.shields.io/badge/HTML-EAD7FF?style=for-the-badge&logo=html5&logoColor=4A5568)
-![CSS3](https://img.shields.io/badge/CSS-D6E4FF?style=for-the-badge&logo=css3&logoColor=4A5568)
-![SQL](https://img.shields.io/badge/SQL-D7F0E8?style=for-the-badge&logo=postgresql&logoColor=4A5568)
+![C](https://img.shields.io/badge/C-111111?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-111111?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-111111?style=flat-square&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-111111?style=flat-square&logo=postgresql&logoColor=white)
+
 
 
