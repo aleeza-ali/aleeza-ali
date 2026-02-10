@@ -1,18 +1,11 @@
 <div align="center">
 
-<a href="https://www.linkedin.com/in/aleezaalii" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-2C2C2C?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-</a>
-<a href="mailto:aali62@uoguelph.ca">
-  <img src="https://img.shields.io/badge/Email-2C2C2C?style=for-the-badge&logo=gmail&logoColor=EA4335" />
-</a>
-<a href="https://aleeza.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Website-2C2C2C?style=for-the-badge&logo=google-chrome&logoColor=FFFFFF" />
-</a>
-
-<br><br>
-
 # Hey, I'm Aleeza!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2C2C2C?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/aleezaalii)
+[![Email](https://img.shields.io/badge/Email-2C2C2C?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:aali62@uoguelph.ca)
+[![Website](https://img.shields.io/badge/Website-2C2C2C?style=for-the-badge&logo=google-chrome&logoColor=FFFFFF)](https://aleeza.dev)
+
 
 I'm a Software Engineering Co-op student at the University of Guelph, passionate about building thoughtful, user focused applications.  
 I turn curiosity into code.  
@@ -32,7 +25,8 @@ I enjoy problem solving and creating software that actually helps people.
 ![Java](https://img.shields.io/badge/Java-2C2C2C?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
 ![JavaScript](https://img.shields.io/badge/JavaScript-2C2C2C?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-2C2C2C?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-2C2C2C?style=for-the-badge&logo=css3&logoColor=1572B6)
+![CSS](https://img.shields.io/badge/CSS3-2C2C2C?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![SQL](https://img.shields.io/badge/SQL-2C2C2C?style=for-the-badge&logo=postgresql&logoColor=336791)
 
 </div>
+
