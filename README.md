@@ -1,8 +1,14 @@
 <div align="center">
 
-<a href="https://www.linkedin.com/in/aleezaalii" target="_blank">LinkedIn</a> ·
-<a href="mailto:aali62@uoguelph.ca">Email</a> ·
-<a href="https://aleeza.dev" target="_blank">Website</a>
+<a href="https://www.linkedin.com/in/aleezaalii" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-2C2C2C?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
+<a href="mailto:aali62@uoguelph.ca">
+  <img src="https://img.shields.io/badge/Email-2C2C2C?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+</a>
+<a href="https://aleeza.dev" target="_blank">
+  <img src="https://img.shields.io/badge/Website-2C2C2C?style=for-the-badge&logo=google-chrome&logoColor=FFFFFF" />
+</a>
 
 <br><br>
 
