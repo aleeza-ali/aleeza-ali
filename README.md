@@ -1,5 +1,11 @@
 <div align="center">
 
+<a href="https://www.linkedin.com/in/aleezaalii" target="_blank">LinkedIn</a> ·
+<a href="mailto:aali62@uoguelph.ca">Email</a> ·
+<a href="https://aleeza.dev" target="_blank">Website</a>
+
+<br><br>
+
 # Hey, I'm Aleeza!
 
 I'm a Software Engineering Co-op student at the University of Guelph, passionate about building thoughtful, user focused applications.  
@@ -24,6 +30,3 @@ I enjoy problem solving and creating software that actually helps people.
 ![SQL](https://img.shields.io/badge/SQL-2C2C2C?style=for-the-badge&logo=postgresql&logoColor=336791)
 
 </div>
-
-
-
