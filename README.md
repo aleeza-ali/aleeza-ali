@@ -7,7 +7,7 @@
 [![Website](https://img.shields.io/badge/Website-2C2C2C?style=for-the-badge&logo=google-chrome&logoColor=FFFFFF)](https://aleeza.dev)
 
 
-I'm a Software Engineering Co-op student at the University of Guelph, passionate about building thoughtful, user focused applications.  
+I'm a Software Engineering Co-op student at the University of Guelph, passionate about building meaningful applications.  
 I turn curiosity into code.  
 
 ---
