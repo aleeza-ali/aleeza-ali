@@ -13,7 +13,7 @@ I turn curiosity into code.
 ---
 
 ## About Me!
-I'm an eager builder who loves turning small ideas into real projects.  
+I'm an eager builder who loves learning and transforming small ideas into real projects.  
 I enjoy problem solving and creating software that actually helps people.
 
 ---
